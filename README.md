@@ -1,2 +1,2 @@
-# CompetitiveProgrammingDump
-# CompetitiveProgrammingDump
+Competitive Programming Dump for Future Use
+
